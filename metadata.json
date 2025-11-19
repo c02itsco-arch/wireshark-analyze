@@ -1,0 +1,5 @@
+{
+  "name": "Cyber Threat Visualizer",
+  "description": "An application to analyze and visualize cybersecurity threats from network traffic data. Upload a CSV file exported from a PCAP to classify threats and see a relationship graph powered by Gemini.",
+  "requestFramePermissions": []
+}
